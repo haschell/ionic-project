@@ -1,0 +1,7 @@
+{
+  "name": "dromo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
